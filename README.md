@@ -11,12 +11,8 @@ Things you may want to cover:
 
 * Ruby version: 2.5.3
 
-* System dependencies
+* Database System
 -- PostgreSQL only
-
-* Configuration
-
-* Database creation
 
 * Database initialization
 -- First run:
