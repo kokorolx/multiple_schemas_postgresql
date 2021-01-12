@@ -3,8 +3,8 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-`gem install bundler`
-`bundle install`
+- `gem install bundler`
+- `bundle install`
 
 
 Things you may want to cover:
@@ -20,9 +20,9 @@ Things you may want to cover:
 
 * Database initialization
 -- First run:
-`rake db:create db:migrate`
+- `rake db:create db:migrate`
  -- Rails c:
-`Tenant.create(name: "Tam", email: "tam@tam.com", subdomain: "tam")`
+- `Tenant.create(name: "Tam", email: "tam@tam.com", subdomain: "tam")`
 
 
 ==> tam.lvh.me:3000
